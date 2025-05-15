@@ -10,7 +10,7 @@ A simple Go program to execute a GraphQL query for provider information.
    go mod tidy
    ```
 
-## Running the Program
+## Running the Program 
 
 Execute the program with:
 ```
