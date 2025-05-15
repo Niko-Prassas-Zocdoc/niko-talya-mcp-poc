@@ -1,4 +1,4 @@
-module gql_query
+module question-answering-mcp
 
 go 1.22
 

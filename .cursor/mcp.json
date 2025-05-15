@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "question-answering-mcp": {
+      "command": "go",
+      "args": ["run", "main.go"],
+      "env": {}
+    }
+  }
+} 
